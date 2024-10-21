@@ -16,10 +16,11 @@ body, html {
 	color: #666666;
 
 	height: 100%;
-	background-color: #fff;
+	/*background-color: #fff;*/
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	background: url(../images/landing-background-img.jpg);
 }
 
 /*---------------------------------------------*/
