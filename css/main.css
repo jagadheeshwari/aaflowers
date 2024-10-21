@@ -3401,10 +3401,6 @@ button.bg3,a.bg3{background-image: linear-gradient(to right, #DD5E89 0%, #F7BB97
   }
 
 }
-.hov-img0 img {
-  background: linear-gradient(90deg, rgb(231, 132, 132) 0%, rgb(129, 129, 128) 100%);
-}
-
 
 /*----------- Testimonial-------------------*/
 .testimonial {
